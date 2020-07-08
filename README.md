@@ -1,1 +1,1 @@
-## [Random Quote Generator](https://adamknud.github.io/random_quote_gen/)
+##[Random Quote Machine](https://adamknud.github.io/random_quote_gen/)
